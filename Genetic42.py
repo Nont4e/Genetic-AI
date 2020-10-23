@@ -95,4 +95,5 @@ def Genetic(NumofPop, Mrate):
        Create_RandomPool()
 
 #Run Code
+#Genetic(NumberofPopulation, MutationRate)
 Genetic(1000,0.1)
