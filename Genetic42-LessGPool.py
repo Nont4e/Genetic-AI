@@ -123,4 +123,4 @@ def Genetic(NumofPop, Mrate):
 
 #Run Code
 #Genetic(NumberofPopulation, MutationRate)
-Genetic(5000,0.01)
+Genetic(10000,0.02)
